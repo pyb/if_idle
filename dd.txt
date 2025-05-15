@@ -1,0 +1,49 @@
+Idea : Idle Deathtrap Dungeon
+My "pilot project" for Canggu?
+This ties 2 ideas that I had : idle IF, and and older idea where you teach behaviours, rather than directly handle movement, to solve levels
+
+1) Build a classical-style game with twine
+
+2) Automateable with a list of simple user-added, If-this-then-that commands:
+"On CROSSROADS : LEFT". # Turn left at every crossroad
+"On ANT : Attack" # kill all the ants
+
+Goal The dungeon will be so deep, and death so frequent, that full automation via trial/error is necessary to win
+
+-------------------
+
+* Qs
+
+Should there be character stats (and Gain strength and/or XP from reps/fights, which are also automatable)
+
+----
+
+* Meta Qs:
+
+- Can I find a stronger idea still?
+
+
+- Strat to rush this through?
+-> can I create a little game first.
+
+-> 
+
+----
+
+Idea: Part of the graph is Circular, designed to be traversed twice. With slightly different text / added on the second time
+
+"Did you actually
+enjoy writing them, when you were really banging
+them out?
+Steve Jackson:
+Oh yeah. It was like doing and designing a dungeon on
+graph paper, but doing it in a form that thousands of people would be
+reading. "
+
+"And I kept a map of
+the whole thing. At home I've got all these hand-drawn maps the length
+of this table as you go through the adventure. It took quite a long
+time."
+
+Design a dungeon!
+
