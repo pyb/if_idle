@@ -1,0 +1,114 @@
+Characters:
+4 including you
+
+Often Separate the where and the what.
+
+Rooms:
+
+* Champion's Cave Entrance.
+
+A flimsy, hastily assembled awning is struggling to protect a little congregation from the brutal midday heat. Pulsing a whiff of cool air, the opening in the rock face looks almost inviting, despite the dust and staleness, not to mention the extreme danger.
+
+* Entrance / who
+
+
+* The what
+<Enter in 3rd position>
+
+
+* Starter packs
+
+"Starter packs" [safety clue in the title!]
+
+After a couple of minutes down this wide tunnel, you come to a well-lit widening that features a installation in the middle.
+You find makeshift table made of a pair of tresles and a strong sheet of wood. On it are a couple of bundles left, one bearing your name.
+
+[I'll look what's inside.]
+[Absolutely do not touch this. Carry on.]
+
+* First Trap
+-> Logic puzzle(s) a la "3 boxes"
+
+"Boxy puzzle"
+
+After a couple of turns in the tunnel, you quickly come across a large carved alcove on the right. There is your first puzzle. Despite the obvious signs of passage in the area, it would appear that your competitors have left it untouched.
+
+In the sand are three boxes, and on the wall is a label.
+It reads "One of the boxes always bears the truth.
+   		  One of the boxes always bears falsity."
+
+On the blue box is a sign : ""
+The black box also bears a message : ""
+Finally, the silver box says : ""
+
+-> [Open the Blue box]. [Open the Black box]. [Open the Silver box]. [Leave the boxes and move on]
+
+<Reward : 5 gold pieces>
+
+* First crossroads
+
+"Choices..."
+
+The air is getting cooler, but more humid.
+
+As you were beginning to sense might happen, you come at a crossroads : there is a three-way split in the tunnel. Footsteps in the dusty ground show that your predecessors took the middle path and the right path, respectively.
+
+[Take the Left path]
+[Middle path]
+[Right path]
+
+* 
+
+CR1-> LP
+* Left path 1st door
+
+"A door to the left"
+
+The left wall is interrupted by a metal-framed, thick wooden door, leading to a side room or tunnel.
+You stop and listen for a few seconds. You hear some faint voices.
+
+[Knock on the door] [does nothing]
+[Simply open it]
+[Ignore it and Carry on down the tunnel]
+
+* Gambling den
+
+
+* Left path 2nd door
+
+* 2nd door : Easy fight
+
+[* Mid path continuation (LP joins)]
+
+CR1-> RP
+* Right path fight
+
+* Right path crossroads
+
+* Right right path water death (with another victim)
+
+* Right left path trap death
+
+
+CR1-> Mid path
+* Mid path Vials
+
+* Mid path continuation (LP joins)
+
+
+Single path again
+
+* Big fight (Spider). Meet 1 contestant there
+
+* Second Crossroads
+
+[...]
+CR2->LP
+
+CR2->MP
+
+CR2->RP
+[...]
+
+-------------
+
