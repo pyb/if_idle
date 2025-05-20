@@ -1,0 +1,49 @@
+Stealth game (a la "the Last Ninja"? Saboteur?)
+Trial of champions
+Add a roguelike element?
+
+Idle roguelike? What'd be the vision?
+
+What's the mechanics?
+=> Limited number of phrases. Maybe twine-compatible
+
+ops: left, right, forward, back
+hide in shadow, crouch behind <item> ...
+garrotte
+stab
+choke (with no-kill option)
+
+distractions:
+throw pebble
+
+
+------------------
+
+How to prototype?
+
+=> short descs a la zork
+enemies/npcs walk around in loops, like zork monsters
+hiding locations become visible if enemy
+
+mix this with deathtrap dungeon world? ie magic/fantasy? or modern/tech? (a la Saboteur?)
+
+---------
+
+explore an early interaction in depth.
+
+Hide in a 2-exit med size restaurant kitchen, a bad guy comes in
+Hiding places : under table, crouch behind fridge, maybe grab onto ceiling near entrance door (no use if npc uses other entrance)
+
+throw knives? shuriken ? garrote?
+
+
+------
+
+* Twine Sample:
+You hear footsteps coming from the restaurant entrance. What do you do ?
+
+Hide - crouch behind fridge - visibility 5% - manoeuver fast - exposed
+Hide - crawl under work table - visibility 30% - manoeuver medium - half protected
+
+----------------
+

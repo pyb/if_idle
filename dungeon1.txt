@@ -1,37 +1,52 @@
-Characters:
-4 including you
+Separate the where and the what.
 
-Often Separate the where and the what.
+-----
+
+Characters:
+4-6 including you
+
+2M + 2F, contrasted women, allied with each other
+-The Assassin
+-The Citizen : Strong ish, tall ish man, earnest look but with cunning. 
+-The Dancer, tall, fit, survivalist gym lady, agile
+-The Scientist(-adventurer) Small-Asian, well-equipped with Traps 
+
+Maybe some early dialogue to characterise the actors.
+
+----
 
 Rooms:
 
 * Champion's Cave Entrance.
 
-A flimsy, hastily assembled awning is struggling to protect a little congregation from the brutal midday heat. Pulsing a whiff of cool air, the opening in the rock face looks almost inviting, despite the dust and staleness, not to mention the extreme danger.
+The flimsy awning is struggling to protect a little congregation from the brutal midday heat. Pulsing a stream of cool air, the opening in the rock face looks almost inviting, despite the dust and staleness, not to mention the extreme danger.
 
 * Entrance / who
-
+See above. Add dialogue
 
 * The what
-<Enter in 3rd position>
-
+<Candidates walk into the dungeon. I enter in 3rd position>
 
 * Starter packs
 
 "Starter packs" [safety clue in the title!]
 
-After a couple of minutes down this wide tunnel, you come to a well-lit widening that features a installation in the middle.
-You find makeshift table made of a pair of tresles and a strong sheet of wood. On it are a couple of bundles left, one bearing your name.
+After a couple of minutes down this wide tunnel, you come to a wide, well-lit area with a little installation in the middle of the passage.
+There is a table made of a pair of tresles and a strong sheet of wood. On it are a two bundles left. A bundle bearing your name.
 
 [I'll look what's inside.]
 [Absolutely do not touch this. Carry on.]
+
+* First loot
+
+In your bundle is a Gold Coin, a small bag of spicy Peanuts, and a Banana. You put these modest offerings in your rucksack and [Walk down the tunnel.]
 
 * First Trap
 -> Logic puzzle(s) a la "3 boxes"
 
 "Boxy puzzle"
 
-After a couple of turns in the tunnel, you quickly come across a large carved alcove on the right. There is your first puzzle. Despite the obvious signs of passage in the area, it would appear that your competitors have left it untouched.
+After a couple of turns in the tunnel, you quickly come across a large carved alcove on the right. It contains is your first puzzle.
 
 In the sand are three boxes, and on the wall is a label.
 It reads "One of the boxes always bears the truth.
@@ -40,6 +55,8 @@ It reads "One of the boxes always bears the truth.
 On the blue box is a sign : ""
 The black box also bears a message : ""
 Finally, the silver box says : ""
+
+Despite the obvious signs of passage in the area, it looks as if that your competitors have left the boxes untouched.
 
 -> [Open the Blue box]. [Open the Black box]. [Open the Silver box]. [Leave the boxes and move on]
 
@@ -51,7 +68,7 @@ Finally, the silver box says : ""
 
 The air is getting cooler, but more humid.
 
-As you were beginning to sense might happen, you come at a crossroads : there is a three-way split in the tunnel. Footsteps in the dusty ground show that your predecessors took the middle path and the right path, respectively.
+Just as you were starting to hope, you come at a crossroads : there is a three-way split in the tunnel. Footsteps in the dusty ground show that your predecessors took the middle path and the right path, respectively.
 
 [Take the Left path]
 [Middle path]
@@ -67,16 +84,47 @@ CR1-> LP
 The left wall is interrupted by a metal-framed, thick wooden door, leading to a side room or tunnel.
 You stop and listen for a few seconds. You hear some faint voices.
 
-[Knock on the door] [does nothing]
-[Simply open it]
-[Ignore it and Carry on down the tunnel]
+[Knock on the door]
+[Simply open it|Gambling den]
+[Ignore it and Carry on down the tunnel|Left path 2nd door]
+
+* Knock on the <den> door
+
+Nothing happens. Whoever is inside hasn't heard you, or doesn't care.
+
+[Simply open the door|Gambling den]
+[Ignore it and Carry on down the tunnel|Left path 2nd door]
 
 * Gambling den
+
+You open the door and have a peek. A game of cards is taking place here.
+A jumble of unused kitchen equipment is stored along three walls of the room.
+In the centre of the room is folding table and some chairs. Sitting on the chairs are four Goblins. They look at you curiously for an instant, but soon turn back to their cards.
+
+[Close the door, and carry on down the tunnel|Left path 2nd door]
+[Ask if you could join the game]
+[Draw your sword and attack the nearest Goblin]
+
+
+* Draw your sword...
+
+With the advantage of surprise, you inflict a grievous neck wound upon[?] the first Goblin.
+Soon enough, the other three draw their daggers. They're attacking you from three directions, and throwing various metal utensils at you.
+You eventually overcome the small but fierce creatures, but this comes at the cost of <red>10 HP</red>. 
+
+<Money reward>
+
+[Leave by the door, and carry on down the tunnel|Left path 2nd door]
+
+* Ask if you could join the game
+
+
 
 
 * Left path 2nd door
 
-* 2nd door : Easy fight
+* 2nd door
+<Forced easy fight>
 
 [* Mid path continuation (LP joins)]
 
@@ -111,4 +159,30 @@ CR2->RP
 [...]
 
 -------------
+
+
+Notes.
+
+From reading DD:
+
+Part of the fun is probably in mapping the dungeon
+
+
+
+-----------
+
+Stopping here, this isn't fun enough.
+
+* What I liked about it ?
+
+Writing descriptions
+Maybe some dialogue? (haven't tried)
+Writing off a map was v. useful to keep things manageable.
+
+* What I didn't :
+
+The situations I mapped are not that interesting / trite
+I need a wider objective/idea to keep me writing the details of it, brick by brick
+
+
 

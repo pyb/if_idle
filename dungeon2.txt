@@ -1,0 +1,72 @@
+Goal : Do something more consistently inspiring to write than Dungeon1
+
+----
+
+Writing sample : Tunnel scene?
+
+Why is this interesting to write? To read?
+
+Why is the Stalker version interesting to watch ? The characters/dialogue/anticipation + visuals. 
+I have no visuals, can have dialogue, and words for description, and a the cutting into interactive snippets (like editing in films)
+"Edit" last?
+
+Do not describe the tunnel directly?
+
+-------
+
+* Bulkhead
+
+You slither through a half-open sliding steel door, and find yourself five-meter long, steel-clad space. Clearly an interface between two separate sections of the compound. The ceiling is very low. Long-dead instrumentation and dusty control modules are bolted to both walls. At the end is another sliding steel door, also open.
+
+< Maybe : [Regroup and discuss the situation|At the Bulkhead]
+
+* At the Bulkhead >
+
+"This is it" say Spruce, matter-of-factly. [Journo]
+"We've nowhere to hide now.", replies Spencer [Professor] "Nothing else to do than to put our methaphorical cards on the table."
+He's not wrong, you think, but wish as usual for a little more restraint. The situation being anxiety-inducing as it is.
+
+[Take a breather]
+=> [Hang out a little while longer] => The group is silent and still. [Linger on at the Tunnel's threshold] The group remains silent. You can hear your companions breathing, only sparsely interrupted by the sound of a bit of water dripping somewhere ahead.
+[Proceed through the door|A few steps into the Tunnel]
+
+--
+
+[Note : completely different dialogue if I didn't learn about the Tunnel. Also, certain death]
+
+* At the Bulkhead 
+"It would appear that we're entering yet another building." remarks Spencer. "Judging by the state of the concrete, and the state of water infiltration, I'd say this was built at least 30 years earlier than the section we were in. Clearly, this compound was built over a longer time period that I initially thought."
+"I'd go along with this assessment. It's a noticeably crumblier building", replied Spruce.
+
+[Proceed through the door|Ten meters into the section]
+
+------
+
+* Ten meters into the section
+
+You've stepped into a pipe-shaped corridor of dampness and unpleasantness.
+The ground is depressed in the middle of the passage, so as to gather debris, and a stream runs through it, created from humidity oozing out of the dark walls and ceiling.
+The light sources are few and far between ; it is getting darker as you advance further.
+
+[Keep Walking.]
+The corridor is getting quieter, as the groups advances further. Your footsteps aren't resonating any more.
+The professor collapses behind you, barely a thud on the ground. You turn back to look at Spruce, who is looking at you, a look of absolute panic.
+
+You pass away three seconds later.
+
+
+
+-------------
+
+* A few steps into the Tunnel
+
+
+
+
+
+
+----------------------------
+
+
+
+
